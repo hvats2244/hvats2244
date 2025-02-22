@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/hvats2244/hvats2244/blob/main/coding-system-minimal-infographic-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Harsh vats</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
