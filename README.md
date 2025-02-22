@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh vats</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img align ="right" alt="coding" width="300" src=" https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2sWtKjYzNvSAGUfcKnc2fv&ust=1740328297881000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCODa9aPa14sDFQAAAAAdAAAAABC8AQ ">
+<img align ="right" alt="coding" width="300" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvats2244&label=Profile%20views&color=0e75b6&style=flat" alt="hvats2244" /> </p>
 
